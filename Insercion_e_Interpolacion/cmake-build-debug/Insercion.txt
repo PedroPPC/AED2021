@@ -1,0 +1,4 @@
+Elementos sin ordenar:
+[-50][6][0][9]
+Elementos ordenados por Insercion:
+[-50][0][6][9]

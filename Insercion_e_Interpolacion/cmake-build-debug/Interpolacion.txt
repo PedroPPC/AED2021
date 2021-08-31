@@ -1,0 +1,2 @@
+Elemento a encontrar: 6
+Elemento encontrado en la posicion 2.
