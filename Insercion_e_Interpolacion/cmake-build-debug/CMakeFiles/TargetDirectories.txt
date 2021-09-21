@@ -1,3 +1,0 @@
-C:/Users/pedro/CLionProjects/TallerClase27Parte2/cmake-build-debug/CMakeFiles/TallerClase27Parte2.dir
-C:/Users/pedro/CLionProjects/TallerClase27Parte2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/pedro/CLionProjects/TallerClase27Parte2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
